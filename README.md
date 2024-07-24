@@ -9,14 +9,13 @@ A classic Snake game implemented in C++. The game allows the player to control a
 - Classic Snake gameplay
 - Simple and intuitive controls
 - Score tracking
-- Game over screen
 
 ## Getting Started
 
 ### Prerequisites
 
 - C++ compiler (e.g., g++)
-- Terminal or command prompt
+- CodeBlocks , VSCode etc.
 
 ### Installation
 
@@ -52,16 +51,6 @@ A classic Snake game implemented in C++. The game allows the player to control a
 - A for Left
 - D for Right
   
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
