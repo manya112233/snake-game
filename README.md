@@ -15,7 +15,7 @@ A classic Snake game implemented in C++. The game allows the player to control a
 ### Prerequisites
 
 - C++ compiler (e.g., g++)
-- CodeBlocks , VSCode etc.
+- Terminal or command prompt
 
 ### Installation
 
